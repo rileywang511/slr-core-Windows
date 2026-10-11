@@ -1,0 +1,4 @@
+id,source,pmid,pmcid,doi,title,authorString,journalTitle,pubYear,pubType
+38000001,MED,38000001,PMC11111111,10.1038/nbt.5555,CRISPR off-target effects in cell lines,"Smith J, Jones K.",Nature Biotechnology,2024,research-article
+38000002,MED,38000002,,10.1016/j.cell.2023.05.005,Review of base editing accuracy,"Lee A.",Cell,2023,review-article
+PPR123456,PPR,,,10.1101/2025.01.001,Prime editing preprint,"Garcia M, Liu W.",bioRxiv,2025,preprint

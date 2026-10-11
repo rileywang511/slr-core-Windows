@@ -1,0 +1,27 @@
+{
+  "meta": {"count": 2, "page": 1, "per_page": 25},
+  "results": [
+    {
+      "id": "https://openalex.org/W4099999991",
+      "doi": "https://doi.org/10.1093/nar/gkad999",
+      "display_name": "Prime editing methodology paper",
+      "publication_year": 2025,
+      "type": "article",
+      "primary_location": {"source": {"display_name": "Nucleic Acids Research"}},
+      "authorships": [{"author": {"display_name": "Maria Garcia"}}],
+      "open_access": {"oa_url": "https://example.org/prime.pdf"},
+      "ids": {}
+    },
+    {
+      "id": "https://openalex.org/W4099999992",
+      "doi": "https://doi.org/10.1126/science.abc123",
+      "display_name": "Single-cell CRISPR screening",
+      "publication_year": 2024,
+      "type": "article",
+      "primary_location": {"source": {"display_name": "Science"}},
+      "authorships": [{"author": {"display_name": "Wei Liu"}}, {"author": {"display_name": "Anna Lee"}}],
+      "open_access": {},
+      "ids": {}
+    }
+  ]
+}

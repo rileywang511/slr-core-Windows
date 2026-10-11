@@ -1,0 +1,24 @@
+review_id: example-2026
+title: "Example review — narrow CRISPR off-target topic"
+authors: ["Your Name"]
+created: 2026-05-15
+query: |
+  TS=("CRISPR" AND "off-target")
+  AND PY=2023-2026
+sources: [openalex, europepmc]
+date_range:
+  from: 2023-01-01
+  to: 2026-05-15
+inclusion_criteria:
+  - { id: I1, text: "Reports off-target effects of CRISPR-Cas systems" }
+  - { id: I2, text: "Empirical experimental study" }
+exclusion_criteria:
+  - { id: E1, text: "Review, editorial, or commentary" }
+  - { id: E2, text: "Non-English full text" }
+screen:
+  title_abstract:
+    type: llm
+  full_text:
+    type: manual
+dedup:
+  fuzzy_title_threshold: 90

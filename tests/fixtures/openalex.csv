@@ -1,0 +1,4 @@
+id,doi,title,display_name,publication_year,type,host_venue.display_name,authorships,open_access.oa_url,cited_by_count
+https://openalex.org/W4012345678,https://doi.org/10.1038/nbt.5555,CRISPR off-target effects in cell lines,CRISPR off-target effects in cell lines,2024,article,Nature Biotechnology,John Smith | Karen Jones,https://example.org/foo.pdf,42
+https://openalex.org/W4023456789,https://doi.org/10.1016/j.cell.2023.05.005,Review of base editing accuracy,Review of base editing accuracy,2023,review,Cell,Anna Lee,,18
+https://openalex.org/W4034567890,,Prime editing in primary T cells,Prime editing in primary T cells,2025,article,Nucleic Acids Research,Maria Garcia | Wei Liu,,3

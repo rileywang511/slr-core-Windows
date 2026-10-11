@@ -1,0 +1,4 @@
+PMID,Title,Authors,Citation,First Author,Journal/Book,Publication Year,Create Date,PMCID,NIHMS ID,DOI
+38000001,CRISPR off-target effects in cell lines,"Smith J, Jones K","Nat Biotechnol. 2024;42(3):123-130",Smith J,Nature Biotechnology,2024,2024/03/01,PMC11111111,,10.1038/nbt.5555
+38000002,Review of base editing accuracy,"Lee A","Cell. 2023;181(7):1234-1250",Lee A,Cell,2023,2023/07/01,,,10.1016/j.cell.2023.05.005
+38000003,Prime editing in primary T cells,"Garcia M, Liu W, Patel R","Nucleic Acids Res. 2025;53(1):e10",Garcia M,Nucleic Acids Research,2025,2025/01/15,PMC22222222,,10.1093/nar/gkad999
