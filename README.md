@@ -1,5 +1,16 @@
 # slr-agent
 
+> **Windows adaptation of [slr-core](https://github.com/reubenduncan/slr-core),
+> originally developed by [Reuben Duncan](https://github.com/reubenduncan).**
+> This version is maintained by [rileywang511](https://github.com/rileywang511)
+> and adds Windows compatibility, Unicode handling, setup documentation and tests.
+> Thanks to the original author for the underlying project.
+
+本项目基于 Reuben Duncan 的 **slr-core** 修改，主要增加 Windows 兼容性、
+中文编码支持和相关测试。原始源码和项目设计归原作者及上游贡献者所有。
+来源版本与许可说明见 [Upstream attribution](docs/upstream.md)，
+适配内容见 [Windows changes](docs/windows-changes.md)。
+
 Reproducible, PRISMA-compliant systematic literature review CLI.
 
 `slr` takes a single WoS-style search query and executes it across multiple
@@ -228,3 +239,7 @@ contracts and tests.
 ## License
 
 MIT.
+
+The upstream README declares MIT. At the verified upstream revision, no
+standalone `LICENSE` file is present. This adaptation preserves the upstream
+declaration and author metadata; see [the upstream license note](docs/upstream.md#license-note).

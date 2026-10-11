@@ -1,9 +1,12 @@
 # Windows adaptation
 
-This version is based on the supplied `slr-core-main` source archive.
-Original author metadata (Reuben Duncan) and the original project name,
-version and documentation are retained. The supplied archive contains no Git
-history or upstream repository URL; this package does not recreate that history.
+This version is based on [slr-core](https://github.com/reubenduncan/slr-core),
+originally developed by [Reuben Duncan](https://github.com/reubenduncan).
+The supplied `slr-core-main` archive matches upstream commit
+[`477aec35dcba15cac53681aa91f644467e4e4f5b`](https://github.com/reubenduncan/slr-core/commit/477aec35dcba15cac53681aa91f644467e4e4f5b)
+across all 144 files. Original author metadata, package name, version and
+documentation are retained. This repository imports the source archive and
+does not recreate upstream Git history. See [upstream attribution](upstream.md).
 
 Changes:
 
